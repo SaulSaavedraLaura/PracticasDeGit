@@ -1,0 +1,31 @@
+1) Introducción a Git
+
+¿Cómo iniciar un repositorio en Git?
+
+git init 
+
+¿Cómo añadir archivos al repositorio de Git?
+
+git add "name.txt"
+
+¿Cómo añadir todos los archivos de un forma rapida a Git?
+
+git add .
+
+¿Cómo veo el status de los archivos de mi repositorio?
+
+git status
+
+¿Cómo sacar archivos añadidos a Git?
+
+git rm --cached "name.txt"
+
+¿Cómo hacer un commit?
+
+git add "name.txt" o "git add ."
+
+git commit -am "message"
+
+¿Cómo ver la historia de los commit del repositorio en Git?
+
+git log
