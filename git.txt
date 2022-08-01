@@ -29,3 +29,17 @@ git commit -am "message"
 ¿Cómo ver la historia de los commit del repositorio en Git?
 
 git log
+
+1.2) Introducción a Git #2
+
+¿Cómo podemos ver la diferencia entre un commit y otro?
+
+git log (Encontramos los hashs que queremos comparar)
+
+git diff "hash1" "hash2" 
+
+IMPORTANTE: La comparación sera del hash1 al hash2, si
+quieres comparar las diferencias entre hash2 y hash 1,
+deberas ponerlo en ese orden
+
+
