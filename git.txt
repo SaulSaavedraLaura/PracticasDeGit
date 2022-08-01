@@ -30,6 +30,8 @@ git commit -am "message"
 
 git log
 
-Hola, soy una linea un poco problematica
-estoy aqui para ayudarte a comprender mejor
-los conflictos :)
+Hola, soy un texto extraño, tal vez no deberia existir
+aunque... si no lo hiciera, no podrias comprender mejor
+la resolución de conflictos ;P 
+
+por cierto, te borro el git log >:))
