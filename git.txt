@@ -29,3 +29,7 @@ git commit -am "message"
 ¿Cómo ver la historia de los commit del repositorio en Git?
 
 git log
+
+Hola, soy una linea un poco problematica
+estoy aqui para ayudarte a comprender mejor
+los conflictos :)
