@@ -72,6 +72,16 @@ git push origin --tags
 
 git push origin :refs/tags/"name"
 
+3) git.ignore
+
+¿Cómo agregamos un gitignore?
+
+creando un archivo de texto plano con el nombre ".gitignore"
+
+¿Cómo es la sintaxsis de git ignore?
+
+*."extension"
+
 
 
 
